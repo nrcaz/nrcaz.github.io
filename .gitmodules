@@ -3,10 +3,10 @@
 	url = https://nrcaz.github.io/HTML-CSS
 [submodule "JavaScript"]
 	path = https://nrcaz.github.io/JavaScript
-	url = https://github.com/nrcaz/JavaScript.git
+	url = https://nrcaz.github.io/JavaScript
 [submodule "portfolio"]
 	path = https://nrcaz.github.io/portfolio
-	url = https://github.com/nrcaz/Mario-Portfolio.git
+	url = https://nrcaz.github.io/Mario-Portfolio
 [submodule "CV"]
 	path = https://nrcaz.github.io/CV
-	url = https://github.com/nrcaz/CV.git
+	url = https://nrcaz.github.io/CV
