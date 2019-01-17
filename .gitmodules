@@ -1,6 +1,6 @@
 [submodule "HTML-CSS"]
 	path = https://nrcaz.github.io/HTML-CSS
-	url = https://github.com/nrcaz/HTML-CSS.git
+	url = https://nrcaz.github.io/HTML-CSS
 [submodule "JavaScript"]
 	path = https://nrcaz.github.io/JavaScript
 	url = https://github.com/nrcaz/JavaScript.git
