@@ -5,8 +5,8 @@
 	path = https://nrcaz.github.io/JavaScript
 	url = https://nrcaz.github.io/JavaScript
 [submodule "portfolio"]
-	path = https://nrcaz.github.io/portfolio
-	url = https://nrcaz.github.io/Mario-Portfolio
+	path = https://nrcaz.github.io/Mario-Portfolio
+	url = https://nrcaz.github.io/portfolio
 [submodule "CV"]
 	path = https://nrcaz.github.io/CV
 	url = https://nrcaz.github.io/CV
