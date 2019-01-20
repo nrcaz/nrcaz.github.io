@@ -1,0 +1,75 @@
+html {
+	height: 100%;
+	font-family: 'Nunito Sans', sans-serif;
+}
+body {
+	height: 100%;
+	background-color: #1a1a1a;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+a {
+	text-decoration: none;
+	color: orange;
+	color: grey;
+	font-size: 400%;
+	transition: all 0.5s;
+}
+a:hover {
+	color: orange;
+}
+nav {
+	width: 18rem;
+	height: 15.6rem;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+nav > div {
+	min-width: 9rem;
+	min-height: 10rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+strong {
+	color: orange;
+	/* color: grey; */
+	min-height: 1.125rem;
+	display: block;
+	letter-spacing: 0.1rem;
+	/* text-transform: uppercase; */
+}
+/* CV */
+#CV a {
+	margin-top: 1rem;
+}
+#CV div {
+	min-height: 1.375rem;
+}
+/* Github */
+#Github a {
+	margin-top: 1rem;
+}
+#Github div {
+	min-height: 1.375rem;
+}
+/* Mario */
+#Mario {
+	min-height: 9rem;
+}
+#Mario div {
+	min-height: 2.75rem;
+	text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+	strong {
+		/* color: orange; */
+	}
+	a {
+		/* color: orange; */
+	}
+}
