@@ -1,12 +1,12 @@
 [submodule "HTML-CSS"]
-	path = https://nrcaz.github.io/HTML-CSS
+	path = /HTML-CSS
 	url = https://nrcaz.github.io/HTML-CSS
 [submodule "JavaScript"]
-	path = https://nrcaz.github.io/JavaScript
+	path = /JavaScript
 	url = https://nrcaz.github.io/JavaScript
 [submodule "portfolio"]
-	path = https://nrcaz.github.io/Mario-Portfolio
+	path = /Mario-Portfolio
 	url = https://nrcaz.github.io/Mario-Portfolio
 [submodule "CV"]
-	path = https://nrcaz.github.io/CV
+	path = /CV
 	url = https://nrcaz.github.io/CV
